@@ -11,6 +11,8 @@ import Testimonials from "../components/testimonials";
 import Cta from "../components/cta";
 import Faq from "../components/faq";
 import PopupWidget from "../components/popupWidget";
+import Team from "../components/team";
+import Services from "../components/services";
 
 const Home = () => {
   return (
@@ -27,22 +29,29 @@ const Home = () => {
       <Navbar />
       <Hero />
       <SectionTitle
-        pretitle="Nextly Benefits"
-        title=" Why should you use this landing page">
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        pretitle="StellarSoft Servicios"
+        title="¿Por qué deberías utilizar StellarSoft?">
+        Somos tu socio confiable en desarrollo de software, 
+        ofreciendo soluciones a medida para potenciar tu negocio 
+        y satisfacer tus necesidades específicas
       </SectionTitle>
       <Benefits data={benefitOne} />
       <Benefits imgPos="right" data={benefitTwo} />
       <SectionTitle
-        pretitle="Watch a video"
-        title="Learn how to fullfil your needs">
-        This section is to highlight a promo or demo video of your product.
-        Analysts says a landing page with video has 3% more conversion rate. So,
-        don&apos;t forget to add one. Just like this.
+        pretitle="StellarSoft Beneficios"
+        title="Servicios adicionales">
+        Nuestros diversos servicios de diseño se enfocan en brindar valor, 
+        impulsar el crecimiento y mejorar las experiencias de 
+        los usuarios para consolidar la presencia digital.
       </SectionTitle>
-      <Video />
+      <Services />
+      <SectionTitle
+        pretitle="Nuestro Equipo"
+        title="Here's what our customers said">
+        Testimonails is a great way to increase the brand trust and awareness.
+        Use this section to highlight your popular customers.
+      </SectionTitle>
+      <Team />
       <SectionTitle
         pretitle="Testimonials"
         title="Here's what our customers said">

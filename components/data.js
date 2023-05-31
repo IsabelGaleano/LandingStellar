@@ -11,46 +11,46 @@ import benefitOneImg from "../public/img/benefit-one.png";
 import benefitTwoImg from "../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: "Nuestras capacidades para tu beneficio",
+  desc: " Nos esforzamos por estar al día  de la tecnología, brindando a nuestros clientes soluciones innovadoras y actualizadas que les permitan destacarse en un mercado competitivo y en constante evolución",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Experiencia de usuario excepcional",
+      desc: "Nuestras aplicaciones se desarrollan con un enfoque centrado en el usuario, brindando interfaces intuitivas, funcionales y atractivas que facilitan la interacción y satisfacen las necesidades de tus clientes.",
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Innovación continua",
+      desc: "En StellarSoft, nos mantenemos al tanto de las últimas tendencias y avances tecnológicos, lo que nos permite ofrecerte soluciones actualizadas.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Eficiencia mejorada",
+      desc: "Con las soluciones de StellarSoft, puedes optimizar tus procesos empresariales, automatizar tareas repetitivas y ahorrar tiempo y recursos, lo que te permite enfocarte en aspectos estratégicos y aumentar la productividad de tu equipo",
       icon: <CursorArrowRaysIcon />,
     },
   ],
 };
 
 const benefitTwo = {
-  title: "Offer more benefits here",
-  desc: "You can use this same layout with a flip image to highlight your rest of the benefits of your product. It can also contain an image or Illustration as above section along with some bullet points.",
+  title: "Nuestras capacidades en servicios de Web Design",
+  desc: "Nuestras capacidades en diseño web se basan en las últimas tendencias y mejores prácticas de la industria, asegurando sitios web responsive y optimizados para ofrecer una experiencia de usuario intuitiva y adaptada a diferentes dispositivos y navegadores.",
   image: benefitTwoImg,
   bullets: [
     {
-      title: "Mobile Responsive Template",
-      desc: "Nextly is designed as a mobile first responsive template.",
+      title: "Experiencia de usuario",
+      desc: "Discovery, UI/UX audit, Information architecture, Inclusive design",
       icon: <DevicePhoneMobileIcon />,
     },
     {
-      title: "Powered by Next.js & TailwindCSS",
-      desc: "This template is powered by latest technologies and tools.",
+      title: "Design & front-end",
+      desc: "Visual design & interactions, Front-end development, CMS, Iconography & illustrations, 3rd party integrations",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {
-      title: "Dark & Light Mode",
-      desc: "Nextly comes with a zero-config light & dark mode. ",
+      title: "Tecnologías",
+      desc: "NEXT.js, React, Angular, CMS, Javascript",
       icon: <SunIcon />,
     },
   ],
