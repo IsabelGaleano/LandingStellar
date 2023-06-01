@@ -12,7 +12,7 @@ const Services  = () => {
       <div className="grid gap-10 lg:grid-cols-2 xl:grid-cols-3">
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between text-center w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
-          <h3 className="text-3xl mt-2"><b>Branding</b></h3>
+          <h3 className="text-3xl mt-2"><b>Marca</b></h3>
             <p className="text-2xl mt-5 leading-normal ">
               Colabore con <Mark>expertos</Mark> para crear una marca memorable 
               que fomente la lealtad y aumente el reconocimiento.
@@ -22,7 +22,7 @@ const Services  = () => {
         </div>
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between text-center w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
-          <h3 className="text-3xl mt-2"><b>UI/UX design</b></h3>
+          <h3 className="text-3xl mt-2"><b>Diseño UI/UX</b></h3>
             <p className="text-2xl mt-5 leading-normal ">
               Cree un diseño <Mark>intuitivo</Mark> de UI/UX que optimice las interacciones de los usuarios, 
               refuerce la lealtad a la marca y genere resultados.
@@ -32,7 +32,7 @@ const Services  = () => {
         </div>
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between text-center w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
-          <h3 className="text-3xl mt-2"><b>App design</b></h3>
+          <h3 className="text-3xl mt-2"><b>Diseño de aplicaciones</b></h3>
             <p className="text-2xl mt-5 leading-normal ">
               Mejore el <Mark>rendimiento</Mark> de su aplicación con nuestro enfoque 
               de diseño estratégico que prioriza la usabilidad.
@@ -42,7 +42,7 @@ const Services  = () => {
         </div>
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between text-center w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
-          <h3 className="text-3xl mt-2"><b>Web app development</b></h3>
+          <h3 className="text-3xl mt-2"><b>Desarrollo de aplicaciones web</b></h3>
             <p className="text-2xl mt-5 leading-normal ">
               Acelere su éxito digital con nuestro <Mark>innovador</Mark> desarrollo 
               de aplicaciones web que ofrece resultados.
@@ -52,7 +52,7 @@ const Services  = () => {
         </div>
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between text-center w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
-          <h3 className="text-3xl mt-2"><b>Design system</b></h3>
+          <h3 className="text-3xl mt-2"><b>Sistema de diseño</b></h3>
             <p className="text-2xl mt-5 leading-normal ">
               Transforme su flujo de trabajo contratando a los expertos de 
               nuestra agencia para crear sistemas de diseño <Mark>escalables</Mark>.
@@ -62,7 +62,7 @@ const Services  = () => {
         </div>
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between text-center w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
-          <h3 className="text-3xl mt-2"><b>Startup web design</b></h3>
+          <h3 className="text-3xl mt-2"><b>Startup diseño web</b></h3>
             <p className="text-2xl mt-5 leading-normal ">
               Inicie su startup con una presencia web atractiva, 
               diseñada por nuestro equipo <Mark>creativo</Mark>.

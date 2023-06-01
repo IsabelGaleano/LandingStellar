@@ -34,18 +34,18 @@ const benefitOne = {
 };
 
 const benefitTwo = {
-  title: "Nuestras capacidades en servicios de Web Design",
+  title: "Nuestras capacidades en servicios de Diseño Web",
   desc: "Nuestras capacidades en diseño web se basan en las últimas tendencias y mejores prácticas de la industria, asegurando sitios web responsive y optimizados para ofrecer una experiencia de usuario intuitiva y adaptada a diferentes dispositivos y navegadores.",
   image: benefitTwoImg,
   bullets: [
     {
       title: "Experiencia de usuario",
-      desc: "Discovery, UI/UX audit, Information architecture, Inclusive design",
+      desc: "Auditoría UI/UX, arquitectura de la información, diseño inclusivo",
       icon: <DevicePhoneMobileIcon />,
     },
     {
       title: "Design & front-end",
-      desc: "Visual design & interactions, Front-end development, CMS, Iconography & illustrations, 3rd party integrations",
+      desc: "Diseño visual e interacciones, desarrollo front-end, CMS, iconografía e ilustraciones, integraciones de terceros",
       icon: <AdjustmentsHorizontalIcon />,
     },
     {

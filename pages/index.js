@@ -23,7 +23,7 @@ const Home = () => {
           name="description"
           content="StellarSoft"
         />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/Logo_StellarSoft.ico" />
       </Head>
 
       <Navbar />
@@ -53,13 +53,6 @@ const Home = () => {
         y se promueve el crecimiento profesional.
       </SectionTitle>
       <Team />
-      <SectionTitle
-        pretitle="Testimonios"
-        title="Testimonios de nuestros clientes">
-        Su apoyo y confianza en los servicios de StellarSoft son fundamentales para nuestro éxito 
-        y nos inspiran a seguir brindando soluciones de calidad.
-      </SectionTitle>
-      <Testimonials />
       <SectionTitle pretitle="FAQ" title="Preguntas frecuentes">
         Answer your customers possible questions here, it will increase the
         conversion rate as well as support or chat requests.
@@ -67,7 +60,6 @@ const Home = () => {
       <Faq />
       <Cta />
       <Footer />
-      <PopupWidget />
     </>
   );
 }
