@@ -13,8 +13,7 @@ const Testimonials  = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Share a real <Mark>testimonial</Mark>
-              that hits some of your benefits from one of your popular customer.
+              Gracias a StellarSoft, nuestra presencia en línea se ha transformado por completo.
             </p>
 
             <Avatar
@@ -27,8 +26,8 @@ const Testimonials  = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Make sure you only pick the <Mark>right sentence</Mark>
-              to keep it short and simple.
+            La comunicación con ellos fue fluida y siempre estuvieron dispuestos 
+            a adaptarse a nuestras solicitudes y cambios.
             </p>
 
             <Avatar
@@ -41,8 +40,8 @@ const Testimonials  = () => {
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              This is an <Mark>awesome</Mark> landing page template I&apos;ve seen. I
-              would use this for anything.
+              Nos brindaron un servicio integral, desde el diseño web hasta 
+              la implementación de soluciones de comercio electrónico.
             </p>
 
             <Avatar

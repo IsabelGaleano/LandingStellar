@@ -47,19 +47,20 @@ const Home = () => {
       <Services />
       <SectionTitle
         pretitle="Nuestro Equipo"
-        title="Here's what our customers said">
-        Testimonails is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        title="Conozca nuestro equipo">
+        Nuestro equipo se destaca por su enfoque colaborativo y su compromiso con la excelencia. 
+        Fomentamos un ambiente de trabajo en equipo donde se comparten ideas, se fomenta la creatividad 
+        y se promueve el crecimiento profesional.
       </SectionTitle>
       <Team />
       <SectionTitle
-        pretitle="Testimonials"
-        title="Here's what our customers said">
-        Testimonails is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        pretitle="Testimonios"
+        title="Testimonios de nuestros clientes">
+        Su apoyo y confianza en los servicios de StellarSoft son fundamentales para nuestro éxito 
+        y nos inspiran a seguir brindando soluciones de calidad.
       </SectionTitle>
       <Testimonials />
-      <SectionTitle pretitle="FAQ" title="Frequently Asked Questions">
+      <SectionTitle pretitle="FAQ" title="Preguntas frecuentes">
         Answer your customers possible questions here, it will increase the
         conversion rate as well as support or chat requests.
       </SectionTitle>

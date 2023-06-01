@@ -35,22 +35,22 @@ const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
+    question: "¿Cuál es el tiempo estimado de entrega para un proyecto de diseño web?",
+    answer: "El tiempo de entrega puede variar según la complejidad del proyecto, pero trabajamos diligentemente para completarlo en un plazo razonable, generalmente dentro de las 4-6 semanas.",
   },
   {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
+    question: "¿Ofrecen servicios de mantenimiento y actualización para los sitios web desarrollados?",
+    answer: "Sí, ofrecemos servicios de mantenimiento y actualización para garantizar que tu sitio web esté seguro, funcione sin problemas y se mantenga al día con los cambios tecnológicos. Ofrecemos diferentes paquetes de mantenimiento para adaptarse a tus necesidades.",
   },
   {
-    question: "What is your refund policy? ",
+    question: "¿Proporcionan soporte técnico después de la finalización del proyecto?",
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      "Sí, brindamos soporte técnico continuo después de la finalización del proyecto. Estamos aquí para responder tus preguntas, solucionar problemas y ayudarte en caso de cualquier consulta relacionada con tu sitio web o aplicación.",
   },
   {
-    question: "Do you offer technical support? ",
+    question: " ¿Cuál es su enfoque en cuanto a la seguridad de los sitios web?",
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      "La seguridad de los sitios web es una prioridad para nosotros. Implementamos las mejores prácticas de seguridad, como el uso de certificados SSL y la implementación de medidas de protección contra ataques cibernéticos. También ofrecemos opciones de respaldo regular y monitoreo constante para garantizar la integridad de tu sitio web.",
   },
 ];
 
